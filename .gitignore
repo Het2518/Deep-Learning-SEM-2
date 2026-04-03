@@ -1,0 +1,11 @@
+Lab-3/sampled_images/
+Lab-2/movies.csv
+Lab-3/data.csv
+Lab-1/dataset.csv
+
+# Ignore ALL Lab-4 datasets
+Lab-4/archive/
+*.zip
+Lab-4/data
+Lab-4/dataset
+Lab-4/yolo5
